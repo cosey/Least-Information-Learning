@@ -1,4 +1,4 @@
-Least information learning is a generalized privacy-preserving framework that protects the privacy of model training datasets against common inference attacks
+Least information learning is a generalized privacy-preserving framework that protects the privacy of model training datasets against common inference attacks.
 
 ## setup
 
