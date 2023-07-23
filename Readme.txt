@@ -1,3 +1,7 @@
+Least information learning is a generalized privacy-preserving framework that protects the privacy of model training datasets against common inference attacks
+
+## setup
+
 Install the required library.
 
 First execute the representative dataset selection in the folder "Dataset Selection".
