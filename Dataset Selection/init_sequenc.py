@@ -1,12 +1,12 @@
 import numpy as np
 from numpy.core.numeric import array_equal
-#计算数组里某各点到其他点的距离之和
+
 def compute_one_others(order,arr):
     res=[]
     for i in order:
         res.append(sum([arr[i][index] for index in order if i != index ]))
     return res
-#取最小值的序号，arr1为已经录入的序列，arr2为最后节点所在行
+
 def min_except_arr(arr1,arr2):
     min_index=None
     min_num=1000
